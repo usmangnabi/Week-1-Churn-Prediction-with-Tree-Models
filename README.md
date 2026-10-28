@@ -72,11 +72,6 @@ customer-churn-prediction/
 
 ### 1. Clone the Repository
 
-```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
-```
-
 ### 2. Install Dependencies
 
 ```bash
